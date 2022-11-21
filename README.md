@@ -26,7 +26,6 @@
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </br>
-</br>
 
 Sou apaixonado por tecnologia, desejo me aprofundar cada vez mais em meus conhecimentos buscando sempre melhorar, para mudar a vida das pessoas através da programação.
 
