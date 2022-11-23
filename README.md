@@ -1,5 +1,6 @@
-## Olá! Eu sou o Júlio 😁🤚🏽
+## Hi! I'm Julio 😁🤚🏽
 
+- I'm a student in System Development Analysis <p>&#128218;</p>
 
 
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-reis-a02b37209/)
@@ -9,7 +10,7 @@
 ![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
 
 
-## Tecnologias que eu uso no meu dia a dia
+## Technologies I use in my daily life
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,10 +23,10 @@
 
 </br>
 
-## Ferramenta de vercionamento de código
+## Code versioning tool
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </br>
 
-Sou apaixonado por tecnologia, desejo me aprofundar cada vez mais em meus conhecimentos buscando sempre melhorar, para mudar a vida das pessoas através da programação.
+I am passionate about technology, I want to deepen my knowledge more and more, always seeking to improve, to change people's lives through programming.
 
