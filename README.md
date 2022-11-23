@@ -1,6 +1,6 @@
 ## Hi! I'm Julio 😁🤚🏽
 
-- I'm a student in System Development Analysis <p>&#128218;</p>
+<p>&#128218;</p>- I'm a student in System Development Analysis
 
 
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-reis-a02b37209/)
