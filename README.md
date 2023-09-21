@@ -5,7 +5,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-reis-a02b37209/)
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-r-reis-a02b37209/)
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julioreis044@gmail.com)
 
 
 ![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
