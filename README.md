@@ -1,7 +1,7 @@
-## Hi! I'm Julio 😁🤚🏽
+## Hi! I'm Júlio 😁🤚🏽
 
-- I'm a student in System Development Analysis (third period)
-- Full Steck Web Developer
+- I have a degree in Systems Development Analysis (third semester)
+- Full Stack Web Developer
 
 
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-reis-a02b37209/)
