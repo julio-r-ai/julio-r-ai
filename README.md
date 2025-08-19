@@ -34,9 +34,8 @@
 ## Ferramenta de controle de versão de código
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+
+### <a href="https://juliodeveloper.com.br/">Visite meu site<a/>
 </br>
-
 Sou apaixonado por tecnologia, quero aprofundar cada vez mais meus conhecimentos, buscando sempre melhorar, mudar a vida das pessoas através da programação.
-
-### <a href="https://juliodeveloper.com.br/">Visite meu Portfólio<a/>
-
