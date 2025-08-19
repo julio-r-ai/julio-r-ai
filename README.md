@@ -8,8 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julioreis044@gmail.com)
 
 
-![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julio-r-ai&show_icons=true&theme=tokyonight)
+![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
 
 
 ## Technologies I use in my daily life
