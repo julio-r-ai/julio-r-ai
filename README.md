@@ -9,6 +9,7 @@
 
 
 ![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julio-r-ai&show_icons=true&theme=tokyonight)
 
 
 ## Technologies I use in my daily life
