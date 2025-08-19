@@ -1,8 +1,7 @@
-## Hi! I'm Júlio 😁🤚🏽
+## Olá! Eu sou o Júlio 😁🤚🏽
 
-- I have a degree in Systems Development Analysis (third semester)
-- Full Stack Web Developer
-
+- Sou formado em Análise de Desenvolvimento de Sistemas
+- Desenvolvedor Web Full Stack
 
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-reis-a02b37209/)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julioreis044@gmail.com)
@@ -12,7 +11,7 @@
 ![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
 
 
-## Technologies I use in my daily life
+## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,10 +31,10 @@
 
 </br>
 
-## Code versioning tool
+## Ferramenta de controle de versão de código
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </br>
 
-I am passionate about technology, I want to deepen my knowledge more and more, always seeking to improve, to change people's lives through programming.
+Sou apaixonado por tecnologia, quero aprofundar cada vez mais meus conhecimentos, buscando sempre melhorar, mudar a vida das pessoas através da programação.
 
