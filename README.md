@@ -3,12 +3,16 @@
 - Sou formado em Análise de Desenvolvimento de Sistemas
 - Desenvolvedor Web Full Stack
 
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlio-césar-r-reis/)
+[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlio-césar-r-reis//)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julioreis044@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julio-r-ai&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
 ![Júlio GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-r-ai&layout=compact&langs_count=7&theme=dracula)
+
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=julio-r-ai&repo=dio-lab-open-source&layout=compact&langs_count=7&theme=dracula)](https://github.com/julio-r-ai/[SEUREPOSITORIO](dio-lab-open-source))
 
 
 ## 🚀Tecnologias que utilizo no meu dia a dia
